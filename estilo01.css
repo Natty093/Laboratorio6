@@ -54,3 +54,9 @@ h4, h1{
     background-color: #a78d74; 
     color: black; 
 }
+.bg-image {
+    background-image: url('imagenes/maldita.jpeg');
+    background-size: cover; 
+    background-position: center;
+    color: #f8f9fa;
+}
