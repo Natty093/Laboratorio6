@@ -1,0 +1,56 @@
+body{
+    background-color: #b6b091; 
+}
+.back{
+    background-color: #b6b091;
+    min-height: 100vh; 
+}
+
+
+.carousel-inner {
+    height: 500px; 
+}
+
+.carousel-item img {
+    width: auto;
+    height: 500px;
+    object-fit: cover; 
+}
+
+
+.container.back {
+    background-color: #d4d2c8; 
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+p{
+    font-size: 16px;
+    font-style: italic;
+}
+
+h4, h1{
+    text-align: center;
+}
+.nav-tabs .nav-link {
+    color: rgb(143, 129, 129); /* Color de texto */
+    background-color: #333; /* Color de fondo para el nav */
+}
+.nav{
+    background-color: #5a5050; /* Color de fondo para el nav */
+}
+.nav-tabs .nav-link.active {
+    color: #fff; /* Color de texto de la pestaña activa */
+    background-color: #b9a69d; /* Color de fondo de la pestaña activa */
+    border-color: #000000; /* Color del borde de la pestaña activa */
+}
+
+.nav-tabs .nav-link:hover {
+    background-color: #695050; /* Color de fondo al pasar el mouse */
+    color: white; /* Color de texto al pasar el mouse */
+}
+
+.accordion-body {
+    background-color: #a78d74; 
+    color: black; 
+}
